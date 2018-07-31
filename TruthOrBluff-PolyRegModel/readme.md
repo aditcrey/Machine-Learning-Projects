@@ -6,5 +6,5 @@
 <img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/TruthOrBluff-PolyRegModel/Capture.JPG"/>
 <img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/TruthOrBluff-PolyRegModel/Capture2.JPG"/>
 
-_Prediction_
+**Linear vs Poly**
 <img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/TruthOrBluff-PolyRegModel/Capture3.JPG"/>
