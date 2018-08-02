@@ -1,6 +1,6 @@
 
 # Truth Or Bluff
-## A polynomial regression model to predict the salary of a new employee of a company
+## A decision regression model to predict the salary of a new employee of a company
 
 **Outputs:**
 
