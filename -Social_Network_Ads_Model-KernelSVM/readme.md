@@ -4,5 +4,14 @@
 
 **Outputs:**
 
-<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/Social_Network_Ads_Model-LinearSVM/Capture.JPG"/>
-<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/Social_Network_Ads_Model-LinearSVM/Capture2.JPG"/>
+**Gaussian or Radius Basis Function Kernel**
+<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/-Social_Network_Ads_Model-KernelSVM/rbftrain.JPG"/>
+<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/-Social_Network_Ads_Model-KernelSVM/rbftest.JPG"/>
+
+**Sigmoid Kernel**
+<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/-Social_Network_Ads_Model-KernelSVM/sigmoidtrain.JPG"/>
+<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/-Social_Network_Ads_Model-KernelSVM/sigmoidtest.JPG"/>
+
+**Polynomial Kernel with degree=3**
+<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/-Social_Network_Ads_Model-KernelSVM/poly3train.JPG"/>
+<img src="https://github.com/aditcrey/Machine-Learning-Projects/blob/master/-Social_Network_Ads_Model-KernelSVM/poly3test.JPG"/>
