@@ -1,6 +1,6 @@
 
 # Social Network Advertisement
-## A Linear Support Vector Machine (SVM) Classification model to decide which age and salary group to deliver advertisements for the given product
+## A Kernel Support Vector Machine (SVM) Classification model to decide which age and salary group to deliver advertisements for the given product
 
 **Outputs:**
 
