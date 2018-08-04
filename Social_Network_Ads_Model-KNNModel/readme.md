@@ -1,7 +1,7 @@
 
 
 # Social Network Advertisement
-## A logistic regression model to decide which age and salary group to deliver advertisements for the given product
+## A K Nearest Neighbors Classification model to decide which age and salary group to deliver advertisements for the given product
 
 **Outputs:**
 
