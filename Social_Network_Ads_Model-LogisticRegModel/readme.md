@@ -1,6 +1,6 @@
 
 # Social Network Advertisement
-## A logistic regression model to decide which age and salary group to deliver advertisements for the given produce
+## A logistic regression model to decide which age and salary group to deliver advertisements for the given product
 
 **Outputs:**
 
